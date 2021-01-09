@@ -10,7 +10,7 @@ Clone the repo  -> ```git clone https://github.com/rvinnie/libft```
 Go into the cloned folder and run **make**.
 This should create a file `libft.a` (static library).
 
-To start using the library include the header file in your project: `#include "libft.h"`
+To start using the library move the libft.h and libft.a files to your project folder and include the header file in your project: `#include "libft.h"`
 ### Make
 + **make** -> compile and generate library
 + **make clean** -> remove objects
